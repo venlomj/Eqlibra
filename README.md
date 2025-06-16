@@ -78,7 +78,7 @@ Each service follows Clean Architecture:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/eqlibra.git
+git clone https://github.com/venlomj/eqlibra.git
 cd eqlibra
 
 # Launch required services
@@ -115,4 +115,4 @@ dotnet run --project src/Services/UserService/Eqlibra.UserService.API
 
 ## 📄 License
 
-MIT License © [venlomj]
+MIT License © venlomj
