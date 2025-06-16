@@ -115,4 +115,4 @@ dotnet run --project src/Services/UserService/Eqlibra.UserService.API
 
 ## 📄 License
 
-MIT License © [Your Name]
+MIT License © [venlomj]
